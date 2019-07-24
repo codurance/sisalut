@@ -1,3 +1,4 @@
+[![CircleCI](https://circleci.com/gh/codurance/sisalut.svg?style=svg)](https://circleci.com/gh/codurance/sisalut)
 # Sisalut
 
 This project was bootstrapped with [Accurapp](https://github.com/accurat/accurapp).
