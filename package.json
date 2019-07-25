@@ -3,9 +3,16 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@vx/axis": "^0.0.190",
+    "@vx/gradient": "^0.0.189",
+    "@vx/group": "^0.0.190",
+    "@vx/mock-data": "^0.0.189",
+    "@vx/scale": "^0.0.190",
+    "@vx/shape": "^0.0.190",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-scripts": "3.0.1"
+    "react-scripts": "3.0.1",
+    "react-tooltip": "^3.10.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -27,5 +34,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@types/react": "^16.8.23"
   }
 }
