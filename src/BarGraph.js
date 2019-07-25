@@ -4,7 +4,7 @@ import { Group } from '@vx/group';
 import { Bar } from '@vx/shape';
 import { scaleLinear, scaleBand } from '@vx/scale';
 import ReactTooltip from 'react-tooltip'
-import { AxisLeft, AxisRight, AxisBottom } from '@vx/axis';
+import { AxisLeft, AxisBottom } from '@vx/axis';
 import { GradientTealBlue } from '@vx/gradient';
 import { getXMaxValue, getYMaxValue } from './lib/chartUtils';
 
