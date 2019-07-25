@@ -1,24 +1,20 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import { BarGraph } from './BarGraph';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+    <div className="w-100 h-100 flex flex-column justify-center items-center">
+      <header className="w-100 pa1 bg-blue">
+        <h1>
+          Sisalut
+        </h1>
       </header>
+      <main>
+        <section>
+          <h2>Simple vertical BarChart</h2>
+          <BarGraph />
+        </section>
+      </main>
     </div>
   );
 }
