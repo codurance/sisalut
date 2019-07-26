@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "/vx-playground/static/js/main.9f81cede.chunk.js",
+    "main.js.map": "/vx-playground/static/js/main.9f81cede.chunk.js.map",
+    "runtime~main.js": "/vx-playground/static/js/runtime~main.cf0b68d8.js",
+    "runtime~main.js.map": "/vx-playground/static/js/runtime~main.cf0b68d8.js.map",
+    "static/css/2.31dafeb2.chunk.css": "/vx-playground/static/css/2.31dafeb2.chunk.css",
+    "static/js/2.481cc272.chunk.js": "/vx-playground/static/js/2.481cc272.chunk.js",
+    "static/js/2.481cc272.chunk.js.map": "/vx-playground/static/js/2.481cc272.chunk.js.map",
+    "index.html": "/vx-playground/index.html",
+    "precache-manifest.98ca1abdbb6c76d311a52c17af6faff0.js": "/vx-playground/precache-manifest.98ca1abdbb6c76d311a52c17af6faff0.js",
+    "service-worker.js": "/vx-playground/service-worker.js",
+    "static/css/2.31dafeb2.chunk.css.map": "/vx-playground/static/css/2.31dafeb2.chunk.css.map"
+  }
+}
