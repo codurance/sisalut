@@ -41,5 +41,6 @@
   },
   "devDependencies": {
     "@types/react": "^16.8.23"
-  }
+  },
+  "homepage": "https://codurance.github.io/vx-playground"
 }
